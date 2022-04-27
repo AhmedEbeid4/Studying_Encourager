@@ -1,5 +1,5 @@
 # Studying Encourager
-<h2>Console App</h2>
+<h2>Console App(Java)</h2>
 <h3>
 I had made a console app that encourages me to study </h3>
 <h3>The app is very dynamic and shows to you the time that you had studied </h3>
